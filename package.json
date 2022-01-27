@@ -56,7 +56,7 @@
     "replacestream": "^4.0.3",
     "reveal": "0.0.4",
     "rxjs": "^6.5.4",
-    "three": "^0.113.2",
+    "three": "^0.137.0",
     "three-dragcontrols": "^0.88.2",
     "ws": "^7.2.1"
   },
