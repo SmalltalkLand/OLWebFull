@@ -28,7 +28,7 @@
     "chrome-promise": "^3.0.5",
     "discord.js": "^11.5.1",
     "edge": "^7.10.1",
-    "electron": "^8.1.1",
+    "electron": "^13.6.6",
     "electron-next": "^3.1.5",
     "esm": "^3.2.25",
     "formik": "^2.1.4",
