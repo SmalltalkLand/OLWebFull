@@ -21,7 +21,7 @@
   "homepage": "https://github.com/gkgoat/OLWebFull#readme",
   "devDependencies": {
     "webpack": "^4.41.5",
-    "webpack-cli": "^3.3.10"
+    "webpack-cli": "^3.3.12"
   },
   "dependencies": {
     "pseudo-worker": "^1.3.0"
